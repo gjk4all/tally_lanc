@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_A-405_P7.62mm_Horizontal,1,5V1,
+D2,D_DO-35_SOD27_P7.62mm_Horizontal,1,BAT85,
+D3,LED_D10.0mm-4,1,LED_RKGB,
+J1,PinHeader_1x05_P2.54mm_Vertical,1,Conn_01x05,
+J2,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,
+J3,PinHeader_1x12_P2.54mm_Vertical,1,Conn_01x12,
+J4,jack_2.5mm_trs_smd,1,LANC Out,
+J5,jack_2.5mm_trs_smd,1,LANC In,
+Q1,TO-92_Inline,1,BC547,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,4K7,
+R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,5K6,
+"R3, R4, R5",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,3,270,
